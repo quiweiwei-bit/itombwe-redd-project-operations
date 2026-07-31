@@ -34,7 +34,6 @@ The documentation is currently being developed and will be expanded over time.
 ---
 
 ## 📂 Planned Repository Structure
-
 - docs/
 - SOPs/
 - GIS/
